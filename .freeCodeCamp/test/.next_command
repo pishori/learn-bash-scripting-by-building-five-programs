@@ -136,3 +136,4 @@ sleep 3
 help while
 clear
 ./countdown.sh 5
+touch bingo.sh
