@@ -144,3 +144,5 @@ clear
 echo LANG
 echo $LANG
 declare -p
+clear
+echo $RANDOM
