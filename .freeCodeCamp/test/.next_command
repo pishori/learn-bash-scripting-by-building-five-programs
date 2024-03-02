@@ -170,3 +170,4 @@ declare -p
 clear
 declare -p J
 declare -p RANDOM
+echo $(( RANDOM % 75 ))
