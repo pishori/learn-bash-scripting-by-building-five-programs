@@ -126,3 +126,4 @@ help
 clear
 ls/
 ls --color=auto /
+ls --color=auto /bin
