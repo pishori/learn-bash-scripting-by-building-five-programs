@@ -123,3 +123,6 @@ help
 clear
 ./countdown.sh 10
 help
+clear
+ls/
+ls --color=auto /
