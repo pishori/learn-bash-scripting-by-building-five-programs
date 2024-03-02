@@ -195,3 +195,4 @@ help function
 help
 clear
 help until
+./fortune.sh
