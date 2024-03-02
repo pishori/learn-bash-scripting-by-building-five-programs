@@ -193,3 +193,5 @@ help function
 ./fortune.sh
 ./fortune.sh
 help
+clear
+help until
