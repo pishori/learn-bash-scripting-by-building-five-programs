@@ -104,3 +104,5 @@ ls --color=auto -y
 help test
 clear
 [[ -a countdown.sh ]]
+bad_file.txt
+[[ -a bad_file.txt ]]
