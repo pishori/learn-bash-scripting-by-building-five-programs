@@ -199,3 +199,4 @@ help until
 help [[
 clear
 [[ hello == hello ]]
+[[ hello == world ]]
