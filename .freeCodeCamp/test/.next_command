@@ -120,3 +120,4 @@ help [[
 ./countdown.sh 0
 help if
 help
+clear
