@@ -179,3 +179,4 @@ help let
 clear
 ./bingo.sh
 ./bingo.sh
+touch fortune.sh
