@@ -106,3 +106,10 @@ clear
 [[ -a countdown.sh ]]
 bad_file.txt
 [[ -a bad_file.txt ]]
+ls --color=auto -l
+help test
+clear
+help [[
+help test
+[[ -x bad_file.txt ]]
+[[ -x countdown.sh ]]
