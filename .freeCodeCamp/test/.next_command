@@ -197,3 +197,5 @@ clear
 help until
 ./fortune.sh
 help [[
+clear
+[[ hello == hello ]]
