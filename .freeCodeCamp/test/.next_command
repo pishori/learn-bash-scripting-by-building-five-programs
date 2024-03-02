@@ -121,3 +121,4 @@ help [[
 help if
 help
 clear
+./countdown.sh 10
