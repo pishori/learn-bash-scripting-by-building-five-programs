@@ -89,3 +89,4 @@ help
 clear
 help if
 help [[ expression ]]
+help test
