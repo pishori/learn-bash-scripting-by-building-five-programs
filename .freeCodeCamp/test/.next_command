@@ -86,3 +86,6 @@ clear
 ./countdown.sh 5
 helo
 help
+clear
+help if
+help [[ expression ]]
